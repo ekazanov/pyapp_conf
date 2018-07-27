@@ -1,0 +1,2 @@
+# pyconfman
+Python configuration management
