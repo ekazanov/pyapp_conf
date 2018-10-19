@@ -1,4 +1,4 @@
-# pyconfman
+# pyapp_conf
 Python configuration management
 
 ## Run tests
